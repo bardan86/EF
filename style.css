@@ -83,6 +83,9 @@
     font-size: 3.2rem ;
     color: rgb(7, 7, 78);
 }
+.job img{
+    height: 500px;
+}
 .btn4{
     height: 60px;
     width: 30%;
@@ -103,7 +106,7 @@ outline: none;
 .apply{
     background:url(./image/cool-background.png)no-repeat;
     background-size: cover;
-    height: 50vh;
+    height: 10vh;
     width: 100%;
 
 }
